@@ -1,0 +1,17 @@
+[
+{
+  "modid": "Bardcraft",
+  "name": "Bardcraft",
+  "description": "Adding a touch of musical magic to Minecraft",
+  "version": "0.0.1",
+  "mcversion": "1.4.6",
+  "logoFile": "/thyraculus/BCLogo.png",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Thyraculus"],
+  "credits": "by Thyraculus. Special thanks to the Forge Team and Aelerionus",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
